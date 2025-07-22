@@ -1,4 +1,4 @@
-module GON_integrated_with_FIFO
+module GON_FIFO
 #(
     parameter DATA_WIDTH     = 64,
     parameter ROW_TAG_WIDTH  = 4,

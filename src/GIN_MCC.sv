@@ -1,4 +1,4 @@
-module MCC #(
+module GIN_MCC #(
     parameter int DATA_WIDTH = 64, 
     parameter int TAG_WIDTH = 4
 ) (

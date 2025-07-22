@@ -1,4 +1,4 @@
-module OX_Bus #(
+module GON_XBus #(
     parameter int DATA_WIDTH = 64, 
     parameter int COL_TAG_WIDTH = 4,
     parameter int NUM_OF_COLS = 14

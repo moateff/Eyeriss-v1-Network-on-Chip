@@ -1,4 +1,4 @@
-module GIN_integrated_with_FIFO
+module GIN_FIFO
 #(
     parameter DATA_WIDTH    = 64,
     parameter ROW_TAG_WIDTH = 4,
